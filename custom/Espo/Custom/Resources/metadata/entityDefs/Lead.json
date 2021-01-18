@@ -1,0 +1,177 @@
+{
+    "fields": {
+        "leadname": {
+            "type": "varchar",
+            "required": true,
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "functionalArea": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "areaOfSpecialization": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "workExpierience": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "currentEmployer": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "currentSalary": {
+            "type": "int",
+            "isCustom": true
+        },
+        "currentLocation": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "course1": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "course2": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "designation": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "noticePeriod": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "leadSource": {
+            "type": "enum",
+            "options": [
+                "Facebook",
+                "TJ",
+                "Naukri",
+                "Reference ",
+                "Bulk Sms",
+                "Bulk Voice",
+                "Select a Option"
+            ],
+            "style": {
+                "Facebook": null,
+                "TJ": null,
+                "Naukri": null,
+                "Reference ": null,
+                "Bulk Sms": null,
+                "Bulk Voice": null,
+                "Select a Option": null
+            },
+            "default": "Select a Option",
+            "isCustom": true
+        },
+        "productName": {
+            "type": "enum",
+            "options": [
+                "Tableau",
+                "Data Science",
+                "Machine Learning",
+                "Python",
+                "AI",
+                "Power BI",
+                "Sales Force",
+                "Select a Option"
+            ],
+            "style": {
+                "Tableau": null,
+                "Data Science": null,
+                "Machine Learning": null,
+                "Python": null,
+                "AI": null,
+                "Power BI": null,
+                "Sales Force": null,
+                "Select a Option": null
+            },
+            "default": "Select a Option",
+            "isCustom": true
+        },
+        "stage": {
+            "type": "enum",
+            "options": [
+                "Hot",
+                "Cold",
+                "Terminated",
+                "Closed",
+                "Call back",
+                "Interactive",
+                "New lead",
+                "Select a option"
+            ],
+            "style": {
+                "Hot": null,
+                "Cold": null,
+                "Terminated": null,
+                "Closed": null,
+                "Call back": null,
+                "Interactive": null,
+                "New lead": null,
+                "Select a option": null
+            },
+            "default": "Select a option",
+            "isCustom": true
+        },
+        "assdate": {
+            "notNull": false,
+            "type": "date",
+            "required": true,
+            "default": "javascript: return this.dateTime.getToday();",
+            "isCustom": true
+        },
+        "emailAddress": {
+            "isPersonalData": false,
+            "required": false
+        },
+        "emailid": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        },
+        "comments": {
+            "type": "text",
+            "rowsMin": 2,
+            "cutHeight": 200,
+            "isCustom": true,
+            "rows": null
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "fields": {
+        "leadname": "Lead Name",
+        "functionalArea": "Functional Area",
+        "areaOfSpecialization": "Area of Specialization",
+        "workExpierience": "Work Expierience",
+        "currentEmployer": "Current Employer",
+        "currentSalary": "Current Salary",
+        "currentLocation": "Current Location",
+        "course1": "Course 1",
+        "course2": "Course 2",
+        "designation": "Designation",
+        "noticePeriod": "Notice Period",
+        "leadSource": "Lead Source",
+        "productName": "Product Name",
+        "stage": "Stage",
+        "assdate": "Assign Date",
+        "emailid": "Emailid",
+        "comments": "Comments"
+    },
+    "options": {
+        "leadSource": {
+            "Facebook": "Facebook",
+            "TJ": "TJ",
+            "Naukri": "Naukri",
+            "Reference ": "Reference ",
+            "Bulk Sms": "Bulk Sms",
+            "Bulk Voice": "Bulk Voice",
+            "Select a Option": "Select a Option"
+        },
+        "productName": {
+            "Tableau": "Tableau",
+            "Data Science": "Data Science",
+            "Machine Learning": "Machine Learning",
+            "Python": "Python",
+            "AI": "AI",
+            "Power BI": "Power BI",
+            "Sales Force": "Sales Force",
+            "Select a Option": "Select a Option"
+        },
+        "stage": {
+            "Hot": "Hot",
+            "Cold": "Cold",
+            "Terminated": "Terminated",
+            "Closed": "Closed",
+            "Call back": "Call back",
+            "Interactive": "Interactive",
+            "New lead": "New lead",
+            "Select a option": "Select a option"
+        }
+    }
+}

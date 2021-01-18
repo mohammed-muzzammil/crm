@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "assignDate": "Assign Date",
+        "email": "Email",
+        "mobileNumber": "Mobile Number",
+        "alternateNumber": "Alternate Number"
+    },
+    "links": {
+        "meetings": "Meetings",
+        "calls": "Calls",
+        "tasks": "Tasks"
+    },
+    "labels": {
+        "Create CounselorDashboard": "Create Counselor Dashboard"
+    }
+}

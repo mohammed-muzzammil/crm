@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "parent": {
+            "entityList": [
+                "Account",
+                "Lead",
+                "Contact",
+                "Opportunity",
+                "Case",
+                "CounselorDashboard"
+            ]
+        },
+        "leadName": {
+            "type": "varchar",
+            "maxLength": 150,
+            "trim": true,
+            "options": [],
+            "isCustom": true
+        }
+    }
+}

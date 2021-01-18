@@ -1,0 +1,56 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "leadname"
+                },
+                {
+                    "name": "assdate"
+                }
+            ],
+            [
+                {
+                    "name": "emailAddress"
+                }
+            ],
+            [
+                {
+                    "name": "phoneNumber"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "functionalArea"
+                },
+                {
+                    "name": "areaOfSpecialization"
+                }
+            ],
+            [
+                {
+                    "name": "workExpierience"
+                },
+                {
+                    "name": "currentEmployer"
+                }
+            ],
+            [
+                {
+                    "name": "currentSalary"
+                },
+                {
+                    "name": "currentLocation"
+                }
+            ],
+            [
+                {
+                    "name": "description"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": ""
+    }
+]

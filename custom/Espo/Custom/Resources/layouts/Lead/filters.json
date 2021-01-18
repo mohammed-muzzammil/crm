@@ -1,0 +1,19 @@
+[
+    "assignedUser",
+    "teams",
+    "createdAt",
+    "createdBy",
+    "modifiedAt",
+    "address",
+    "accountName",
+    "leadname",
+    "campaign",
+    "emailAddress",
+    "phoneNumber",
+    "status",
+    "source",
+    "opportunityAmountConverted",
+    "industry",
+    "targetLists",
+    "createdAccount"
+]

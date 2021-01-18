@@ -1,0 +1,68 @@
+[
+    {
+        "name": "leadname",
+        "width": 20,
+        "link": true,
+        "align": "left"
+    },
+    {
+        "name": "assdate"
+    },
+    {
+        "name": "assignedUser",
+        "width": 7,
+        "align": "left"
+    },
+    {
+        "name": "emailAddress",
+        "width": 4,
+        "notSortable": true,
+        "align": "left"
+    },
+    {
+        "name": "phoneNumber"
+    },
+    {
+        "name": "functionalArea"
+    },
+    {
+        "name": "areaOfSpecialization"
+    },
+    {
+        "name": "workExpierience"
+    },
+    {
+        "name": "currentEmployer"
+    },
+    {
+        "name": "currentSalary"
+    },
+    {
+        "name": "currentLocation"
+    },
+    {
+        "name": "course1"
+    },
+    {
+        "name": "course2"
+    },
+    {
+        "name": "designation"
+    },
+    {
+        "name": "noticePeriod"
+    },
+    {
+        "name": "leadSource"
+    },
+    {
+        "name": "productName"
+    },
+    {
+        "name": "stage"
+    },
+    {
+        "name": "comments",
+        "align": "left"
+    }
+]

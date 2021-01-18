@@ -1,0 +1,89 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "leadname"
+                },
+                {
+                    "name": "phoneNumber"
+                }
+            ],
+            [
+                {
+                    "name": "emailAddress"
+                },
+                {
+                    "name": "assdate"
+                }
+            ],
+            [
+                {
+                    "name": "functionalArea"
+                },
+                {
+                    "name": "areaOfSpecialization"
+                }
+            ],
+            [
+                {
+                    "name": "workExpierience"
+                },
+                {
+                    "name": "currentEmployer"
+                }
+            ],
+            [
+                {
+                    "name": "currentSalary"
+                },
+                {
+                    "name": "currentLocation"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": "Overview"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "course1"
+                },
+                {
+                    "name": "course2"
+                }
+            ],
+            [
+                {
+                    "name": "designation"
+                },
+                {
+                    "name": "noticePeriod"
+                }
+            ],
+            [
+                {
+                    "name": "leadSource"
+                },
+                {
+                    "name": "productName"
+                }
+            ],
+            [
+                {
+                    "name": "stage"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "comments"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": "Details"
+    }
+]
