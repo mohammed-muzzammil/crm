@@ -3,12 +3,12 @@ return [
   'cacheTimestamp' => 1610961417,
   'database' => [
     'driver' => 'pdo_mysql',
-    'host' => 'localhost',
-    'port' => '',
+    'host' => 'remotemysql.com',
+    'port' => '3306',
     'charset' => 'utf8mb4',
-    'dbname' => 'espocrm',
-    'user' => 'muzzammil',
-    'password' => 'sfsschool'
+    'dbname' => 'x9oKQJOBSJ',
+    'user' => 'x9oKQJOBSJ',
+    'password' => '4M9rZUEHWO'
   ],
   'useCache' => true,
   'recordsPerPage' => 20,
